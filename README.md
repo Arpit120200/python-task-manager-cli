@@ -186,5 +186,3 @@ This project helps demonstrate:
 - File persistence using JSON
 - CLI-based application design
 - Basic task management systems
-  
----
